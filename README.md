@@ -1,4 +1,4 @@
-# AI News Dashboard
+#News Dashboard
 
 ## 概要
 ニュースを表示するアプリです
